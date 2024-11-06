@@ -1,0 +1,26 @@
+body{
+    padding:15vw 36vw 20vw 36vw;
+    background-color: rgb(2, 46, 46);
+    font: 400px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* .success{
+    border: 2px solid green;
+}
+
+.error{
+    border: 2px solid red;
+} */
+
+
+button{
+     background-color: rgb(152, 146, 146);
+     height: 50px;
+     width:50px;
+     border: 1px aliceblue;
+     font-size: 30px;
+   
+     
+
+}
